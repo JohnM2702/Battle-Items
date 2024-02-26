@@ -1,0 +1,17 @@
+Sites for datasets and code repositories from research papers
+	https://www.kaggle.com/
+	https://paperswithcode.com/
+
+
+Sites for research papers using AI
+	https://www.litmaps.com/
+	https://www.connectedpapers.com/
+	https://www.researchrabbit.ai/
+	https://www.perplexity.ai/
+
+
+Sites for research papers
+	https://sci-hub.hkvisa.net/
+	https://libgen.is/
+	https://wosonhj.com/				- request for non-openaccess papers
+	https://consensus.app/
